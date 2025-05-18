@@ -1,5 +1,5 @@
 # Patterns
 
-- A collection simple examples using different design patterns.
+- A collection of simple examples (in Python) using different design patterns.
 - Etc
 
